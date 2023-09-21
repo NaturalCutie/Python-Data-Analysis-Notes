@@ -1,0 +1,26 @@
+  {
+  "owner": "pelmers",
+  "name": "text-rewriter",
+  "stars": 11,
+  "forks": 4,
+  "watchers": 3,
+  "isFork": false,
+  "languages": [
+    {
+      "name": "JavaScript",
+      "size": 21769
+    },
+    {
+      "name": "HTML",
+      "size": 2096
+    },
+    {
+      "name": "CSS",
+      "size": 2081
+    }
+  ],
+  "description": "Webextension to rewrite phrases in pages",
+  "createdAt": "2015-03-14T22:35:11Z",
+  "pushedAt": "2022-02-11T14:26:00Z",
+  "license": null
+}
